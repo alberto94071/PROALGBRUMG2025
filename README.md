@@ -4,14 +4,8 @@ Proyecto final para el curso de Álgebra Lineal, desarrollado por estudiantes de
 
 ## 📸 Captura de Pantalla
 
-![Captura del programa](https_URL_DE_TU_IMAGEN_AQUI.png)
+![Captura del programa](https://github.com/alberto94071/PROALGBRUMG2025/blob/main/sc_app.png?raw=true)
 
-> **Instrucción (¡Borra esto!):** Para agregar la captura de pantalla:
-> 1. Toma una captura de tu programa, llámala `captura.png`.
-> 2. Súbela a tu repositorio de GitHub (igual que subiste el logo).
-> 3. Haz clic en el archivo `captura.png` dentro de GitHub.
-> 4. Copia la URL de esa imagen.
-> 5. Reemplaza el texto `https_URL_DE_TU_IMAGEN_AQUI.png` con la URL que copiaste.
 
 ## 📝 Descripción del Proyecto
 
