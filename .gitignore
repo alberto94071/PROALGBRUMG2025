@@ -1,0 +1,12 @@
+# Archivos de PyInstaller
+dist/
+build/
+*.spec
+*.exe
+
+# Carpetas y archivos de Python
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
