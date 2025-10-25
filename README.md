@@ -34,15 +34,12 @@ Si tienes Python instalado, puedes ejecutarlo directamente.
 
 1.  Clona o descarga este repositorio:
     ```bash
-    git clone [https://github.com/TuUsuario/TuRepositorio.git](https://github.com/TuUsuario/TuRepositorio.git)
+    git clone (https://github.com/alberto94071/PROALGBRUMG2025)
     ```
-    *(--- ¡Reemplaza la URL con la de tu repositorio! ---)*
-
 2.  Navega a la carpeta del proyecto:
     ```bash
     cd TuRepositorio
     ```
-
 3.  Instala las dependencias necesarias:
     ```bash
     pip install numpy pillow
@@ -64,8 +61,5 @@ Si tienes Python instalado, puedes ejecutarlo directamente.
 ## 👨‍💻 Desarrolladores
 
 Este proyecto fue desarrollado por:
+![Desarrolladores](https://github.com/alberto94071/PROALGBRUMG2025/blob/main/sc_app.png?raw=true)
 
-* --- (Nombre Completo - Carné) ---
-* --- (Nombre Completo - Carné) ---
-* --- (Nombre Completo - Carné) ---
-* --- (Nombre Completo - Carné) ---
