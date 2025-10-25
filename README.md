@@ -61,5 +61,6 @@ Si tienes Python instalado, puedes ejecutarlo directamente.
 ## 👨‍💻 Desarrolladores
 
 Este proyecto fue desarrollado por:
-![Desarrolladores](https://github.com/alberto94071/PROALGBRUMG2025/blob/main/sc_app.png?raw=true)
+
+![Desarrolladores](https://github.com/alberto94071/PROALGBRUMG2025/blob/main/sc_desarrolladores.png?raw=true)
 
